@@ -16,7 +16,7 @@ export function Nav() {
         <div className="flex flex-1 items-center space-x-4 justify-end">
           <SubmitGuideDialog />
           <Button variant="ghost" size="icon" asChild>
-            <Link href="https://github.com/yourusername/yourrepo" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/fakepixels/ai-on-base" target="_blank" rel="noopener noreferrer">
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </Link>

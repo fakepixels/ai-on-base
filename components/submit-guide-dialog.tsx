@@ -34,7 +34,7 @@ export function SubmitGuideDialog() {
           <div className="pt-4">
             <Button asChild>
               <a 
-                href="https://github.com/yourusername/yourrepo/fork" 
+                href="https://github.com/fakepixels/ai-on-base" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
